@@ -15,5 +15,7 @@ public class Main {
 
         System.out.println("Main Project---------");
 
+        System.out.println("Seoul Project----------");
+
     }
 }
